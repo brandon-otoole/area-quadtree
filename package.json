@@ -1,0 +1,23 @@
+{
+  "name": "area-quadtree",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "An area quad tree to efficiently store area objects on a 2d plane",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brandon-otoole/area-quadtree.git"
+  },
+  "keywords": [
+    "QuadTree",
+    "rectangle",
+    "area",
+    "region",
+    "tree"
+  ],
+  "author": "Brandon OToole",
+  "license": "ISC"
+}
